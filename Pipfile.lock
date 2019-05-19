@@ -1,0 +1,110 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "2111acdbb76efac4f3cdaafc4286273137e43462822c9be445288aad2c29c5fb"
+        },
+        "requires": {},
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "attrdict": {
+            "version": "==2.0.0"
+        },
+        "certifi": {
+            "version": "==2018.11.29"
+        },
+        "chardet": {
+            "version": "==3.0.4"
+        },
+        "click": {
+            "version": "==7.0"
+        },
+        "cytoolz": {
+            "version": "==0.9.0.1"
+        },
+        "eth-abi": {
+            "version": "==1.3.0"
+        },
+        "eth-account": {
+            "version": "==0.3.0"
+        },
+        "eth-hash": {
+            "version": "==0.2.0"
+        },
+        "eth-keyfile": {
+            "version": "==0.5.1"
+        },
+        "eth-keys": {
+            "version": "==0.2.1"
+        },
+        "eth-rlp": {
+            "version": "==0.1.2"
+        },
+        "eth-typing": {
+            "version": "==2.0.0"
+        },
+        "eth-utils": {
+            "version": "==1.4.1"
+        },
+        "flask": {
+            "version": "==1.0.2"
+        },
+        "hexbytes": {
+            "version": "==0.1.0"
+        },
+        "idna": {
+            "version": "==2.8"
+        },
+        "itsdangerous": {
+            "version": "==1.1.0"
+        },
+        "jinja2": {
+            "version": "==2.10.1"
+        },
+        "lru-dict": {
+            "version": "==1.1.6"
+        },
+        "markupsafe": {
+            "version": "==1.1.0"
+        },
+        "parsimonious": {
+            "version": "==0.8.1"
+        },
+        "pycryptodome": {
+            "version": "==3.7.2"
+        },
+        "python-dotenv": {
+            "version": "==0.10.1"
+        },
+        "requests": {
+            "version": "==2.21.0"
+        },
+        "rlp": {
+            "version": "==1.1.0"
+        },
+        "six": {
+            "version": "==1.12.0"
+        },
+        "toolz": {
+            "version": "==0.9.0"
+        },
+        "urllib3": {
+            "version": "==1.24.2"
+        },
+        "web3": {
+            "version": "==4.8.2"
+        },
+        "websockets": {
+            "version": "==6.0"
+        },
+        "werkzeug": {
+            "version": "==0.14.1"
+        }
+    },
+    "develop": {}
+}

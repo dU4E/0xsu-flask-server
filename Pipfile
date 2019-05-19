@@ -1,0 +1,4 @@
+[packages]
+flask = "*"
+web3 = "*"
+python-dotenv = "*"
